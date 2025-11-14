@@ -1,20 +1,31 @@
 [
   {
-    "id": "niuniuziyuan",
-    "name": "牛牛视频",
-    "api": "https://api.niuniuzy.me/api.php/provide/vod",
+    "id": "feifanziyuan",
+    "name": "非凡视频",
+    "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/",
     "nsfw": false,
-    "logo": "https://api.niuniuzy.me/template/niuniuzy/static/images/logo.png",
+    "logo": "http://cj.ffzyapi.com/template/ffzy/static/picture/logo.png",
     "type": 0,
     "extra": {
       "gfw": false
     }
   },
   {
-    "id": "feifanziyuan",
-    "name": "非凡资源",
-    "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml",
-    "logo": "http://cj.ffzyapi.com/template/ffzy/static/picture/logo.png",
+    "id": "niangziziyuan",
+    "name": "量子视频",
+    "api": "ttps://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml/",
+    "nsfw": false,
+    "logo": "http://23.224.101.30/template/lzizycom/static/picture/logo.png",
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "jinyingziyuan",
+    "name": "金鹰视频",
+    "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/xml/",
+    "logo": "https://jyzyapi.com/template/jinying/images/logo.png",
     "nsfw": false,
     "type": 0,
     "extra": {
