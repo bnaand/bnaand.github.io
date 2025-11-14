@@ -13,7 +13,7 @@
   {
     "id": "niangziziyuan",
     "name": "量子视频",
-    "api": "ttps://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml/",
+    "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml/",
     "nsfw": false,
     "logo": "http://23.224.101.30/template/lzizycom/static/picture/logo.png",
     "type": 0,
