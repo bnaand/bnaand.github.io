@@ -1,2 +1,2 @@
 # bnaand.github.io
-https://bnaand.github.io/tvbox.json
+https://bnaand.github.io/catmovie.json
